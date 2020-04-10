@@ -9,7 +9,7 @@ package com.itgaohsu.bean;
 public class User {
     private int id;
 
-    private String loginname="huihui";
+    private String loginname="huihui ";
 
     private String  password;
 
